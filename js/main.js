@@ -40,12 +40,6 @@ inlinegogascript843.innerHTML = `window.dataLayer = window.dataLayer || [];
 document.head.append(gogascript27, inlinegogascript843);
 script("Injected script 1/4 (Google Tag Manager)");
 
-const arcbroker23 = document.createElement("script");
-arcbroker23.setAttribute("async", "");
-arcbroker23.setAttribute("src", "https://arc.io/widget.min.js#eRPHFgiC");
-document.head.append(arcbroker23);
-script("Injected script 2/4 (Arc widget stuff)");
-
 const adblockhandle44 = document.createElement("script");
 adblockhandle44.setAttribute("src", "https://fundingchoicesmessages.google.com/i/pub-5756835229788588?ers=1");
 adblockhandle44.setAttribute("nonce", "yibq-w_TR5NOCRWsU-VL0Q");
